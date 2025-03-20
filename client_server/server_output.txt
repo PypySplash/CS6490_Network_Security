@@ -1,0 +1,6 @@
+Server started on port: 5002
+Server is waiting for client...
+Client connected!
+Received from Alice (A): 179464
+Sending to Alice (B): 449485
+Shared Key: 475269

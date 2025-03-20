@@ -1,0 +1,80 @@
+Test 1:
+Input: 5465737444617461
+Start Encryption:
+Encryption Round  1: E19A057DB213962E
+Encryption Round  2: 442230337F86A8A0
+Encryption Round  3: 69CE7C3438D2F186
+Encryption Round  4: D10FCD217DE02336
+Encryption Round  5: 421500842C11FC46
+Encryption Round  6: 511488DDF588735A
+Encryption Round  7: D2E5697208B576D5
+Encryption Round  8: D7C8B68CEAED6008
+Encryption Round  9: 1EBE38DE4376550C
+Encryption Round 10: CF8EA7F6FF61AD75
+Encryption Round 11: 191066898113D9B0
+Encryption Round 12: 262977933B860C2D
+Encryption Round 13: E4D0734FD0D21360
+Encryption Round 14: 7B3F056151E04679
+Encryption Round 15: 1FE630C9E6119A1A
+Encryption Round 16: 243D7CEACB88C1DF
+Encryption Result: 243D7CEACB88C1DF
+
+Start Decryption:
+Decryption Round  1: 1FE630C9E6119A1A
+Decryption Round  2: 7B3F056151E04679
+Decryption Round  3: E4D0734FD0D21360
+Decryption Round  4: 262977933B860C2D
+Decryption Round  5: 191066898113D9B0
+Decryption Round  6: CF8EA7F6FF61AD75
+Decryption Round  7: 1EBE38DE4376550C
+Decryption Round  8: D7C8B68CEAED6008
+Decryption Round  9: D2E5697208B576D5
+Decryption Round 10: 511488DDF588735A
+Decryption Round 11: 421500842C11FC46
+Decryption Round 12: D10FCD217DE02336
+Decryption Round 13: 69CE7C3438D2F186
+Decryption Round 14: 442230337F86A8A0
+Decryption Round 15: E19A057DB213962E
+Decryption Round 16: 5465737444617461
+Decryption Result: 5465737444617461
+
+Test 2 (change a bit):
+Input: 5565737444617461
+
+Start Decryption:
+Encryption Round  1: E89A057DB213962E
+Encryption Round  2: 572230337F86A8A0
+Encryption Round  3: 3DCE7C3438D2F186
+Encryption Round  4: D80FCD217DE02336
+Encryption Round  5: 6C1500842C11FC46
+Encryption Round  6: BA1488DDF588735A
+Encryption Round  7: 03E5697208B576D5
+Encryption Round  8: E7C8B68CEAED6008
+Encryption Round  9: 36BE38DE4376550C
+Encryption Round 10: 5F8EA7F6FF61AD75
+Encryption Round 11: 6D1066898113D9B0
+Encryption Round 12: 642977933B860C2D
+Encryption Round 13: 79D0734FD0D21360
+Encryption Round 14: 633F056151E04679
+Encryption Round 15: DDE630C9E6119A1A
+Encryption Round 16: 8F3D7CEACB88C1DF
+Encryption Result: 8F3D7CEACB88C1DF
+
+Start Decryption:
+Decryption Round  1: DDE630C9E6119A1A
+Decryption Round  2: 633F056151E04679
+Decryption Round  3: 79D0734FD0D21360
+Decryption Round  4: 642977933B860C2D
+Decryption Round  5: 6D1066898113D9B0
+Decryption Round  6: 5F8EA7F6FF61AD75
+Decryption Round  7: 36BE38DE4376550C
+Decryption Round  8: E7C8B68CEAED6008
+Decryption Round  9: 03E5697208B576D5
+Decryption Round 10: BA1488DDF588735A
+Decryption Round 11: 6C1500842C11FC46
+Decryption Round 12: D80FCD217DE02336
+Decryption Round 13: 3DCE7C3438D2F186
+Decryption Round 14: 572230337F86A8A0
+Decryption Round 15: E89A057DB213962E
+Decryption Round 16: 5565737444617461
+Decryption Result: 5565737444617461

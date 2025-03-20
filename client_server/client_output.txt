@@ -1,0 +1,4 @@
+Connected to server on port: 5002
+Sending to Bob (A): 179464
+Received from Bob (B): 449485
+Shared Key: 475269
