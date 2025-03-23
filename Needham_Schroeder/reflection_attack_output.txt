@@ -1,0 +1,9 @@
+Alice's encrypted nonce (ECB): 0bc860ca793f38e5cb3a424c51fa41ca
+Trudy replays message to Bob: 0bc860ca793f38e5cb3a424c51fa41ca
+Bob decrypts nonce (ECB): d4f67e4ab08aa359
+Bob's encrypted response (ECB): 9f6fffde6f9c8407cb3a424c51fa41ca
+Trudy recovers nonce - 1 (attack succeeds): d4f67e4ab08aa358
+
+Alice's encrypted nonce (CBC): e031b9e3f2242968c19e4938016cf83e
+Bob's encrypted response (CBC): 25f7b317568874cedbcc7e9e532e1f11
+Decrypted nonce with wrong IV (garbage): e1955c3950540635
